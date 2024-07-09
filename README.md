@@ -2,6 +2,10 @@
 
 This project explains the forward and inverse kinematics for a 3-DOF planar robot. It includes detailed calculations and an example to illustrate the concepts.
 
+![3-DOF Robot](https://github.com/justRuba/Forward-and-Inverse-Kinematics-for-a-3-DOF-Robot/assets/134620937/d40005b8-c36b-48cf-8213-4d36e81bb1a4)
+
+*Image source: [Example Source](https://www.youtube.com/watch?v=LpYf_hJPN70)*
+
 ## Forward Kinematics
 
 Forward kinematics involves determining the position and orientation of the end-effector given the joint parameters (angles for revolute joints).
