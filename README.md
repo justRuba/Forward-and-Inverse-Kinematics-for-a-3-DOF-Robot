@@ -1,10 +1,6 @@
-# Forward-and-Inverse-Kinematics-for-a-3-DOF-Robot
+# Forward and Inverse Kinematics for a 3-DOF Robot
+
 This project explains the forward and inverse kinematics for a 3-DOF planar robot. It includes detailed calculations and an example to illustrate the concepts.
-
-![3-DOF Robot](https://github.com/justRuba/Forward-and-Inverse-Kinematics-for-a-3-DOF-Robot/assets/134620937/3544a2af-e91b-4b7c-9fef-8921008c3b3d)
-
-*Image source: [Example Source](https://www.youtube.com/watch?v=LpYf_hJPN70)*
-
 
 ## Forward Kinematics
 
@@ -89,7 +85,7 @@ Let's assume:
    \sin(\theta_3) = \frac{y - L_1 \sin(\theta_1) - L_2 \sin(\theta_1 + \theta_2)}{L_3}
    \]
 
-   2. **Solve for \(\theta_2\):**
+2. **Solve for \(\theta_2\):**
    \[
    \cos(\theta_2) = \frac{x - L_1 \cos(\theta_1)}{L_2}
    \]
