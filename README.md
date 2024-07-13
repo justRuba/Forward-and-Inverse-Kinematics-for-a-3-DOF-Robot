@@ -1,6 +1,6 @@
 # Forward and Inverse Kinematics for a 3-DOF Robot
 
-This project explains the forward and inverse kinematics of a 3-DOF planar robot. It includes calculations and an example to illustrate the concepts.
+This project explains the forward and inverse kinematics of a 3-DOF planar robot. It includes calculations.
 
 ## Forward Kinematics
 
@@ -59,5 +59,4 @@ Solve for theta3:
 ![WhatsApp Image 2024-07-14 at 01 21 48_af81d75f](https://github.com/user-attachments/assets/c268e14e-91f7-4764-8bdf-01571b7d6631)
 
 ![WhatsApp Image 2024-07-14 at 01 22 28_236863f0](https://github.com/user-attachments/assets/ae537639-245f-4b0d-97ed-f0170cbba463)
-
 
