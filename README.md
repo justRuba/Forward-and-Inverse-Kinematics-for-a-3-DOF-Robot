@@ -6,41 +6,14 @@ This project explains the forward and inverse kinematics of a 3-DOF planar robot
 
 Forward kinematics involves determining the position and orientation of the end-effector given the joint parameters.
 
-Consider a planar robot with three revolute joints, denoted as 
-𝜃
-1
-θ 
-1
-​
- , 
-𝜃
-2
-θ 
-2
-​
- , and 
-𝜃
-3
-θ 
-3
-​
- . Each joint connects to a link of length 
-𝐿
-1
-L 
-1
-​
- , 
-𝐿
-2
-L 
-2
-​
- , and 
-𝐿
-3
-L 
-3
-​
- , respectively.
+### Example: 3-DOF Planar Robot
+
+Consider a planar robot with three revolute joints, Each joint connects to a link of length.
+
+The end-effector's position can be found by summing the contributions of each link.
+
+The position (x,y) of the end-effector is given by:
+
+![WhatsApp Image 2024-07-14 at 00 58 18_498a66df](https://github.com/user-attachments/assets/15b8d9be-36a0-49fc-9ad1-9daae7aa0b0b)
+
 
